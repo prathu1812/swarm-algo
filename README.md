@@ -1,2 +1,2 @@
-# swarm-algo
+# swarm-algorithms
 Swarm Intelligence
