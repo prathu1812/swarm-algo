@@ -1,2 +1,2 @@
-# swarm-algorithms
+# Signature of Sine Cosine Algorithm 
 Swarm Intelligence
